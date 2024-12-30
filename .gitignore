@@ -1,0 +1,104 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Avoid saving crash reports in git
+CrashReports/
+
+# Scriptable Object debug data
+*.so.meta
+
+# Unity Asset Database
+UserSettings/
+
+# Auto-generated IDE files
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+*.booproj
+
+# JetBrains Rider project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Rider caches
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries
+.idea/libraries/
+.idea/assetWizardSettings.xml
+
+# Visual Studio
+.vscode/
+.vs/
+*.csproj.user
+*.csproj.userprefs
+
+# Built data and player
+Build/
+Builds/
+*.apk
+*.aab
+
+# Unity auto-generated data
+*.pidb.meta
+*.pidb
+
+# Unity cache
+*.cache
+
+# Unity local workspace settings
+*.swp
+*.sln
+*.sln.cache
+
+# Other Unity generated files
+*.log
+*.lock
+*.vsixmanifest
+*.tmLanguage
+*.assetmeta
+
+# System-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JetBrains IDE shared run/debug configurations
+.idea/runConfigurations/
+
+# JetBrains IDE personal preferences
+.idea/.name
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/assetWizardSettings.xml
+
+# Ignore JetBrains Rider project-wide run/debug configs
+.idea/modules.xml
+
+# Ignore compiled binaries
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Ignore macOS metadata files
+*.DS_Store
+
+# Ignore temporary Unity Editor or OS files
+*.swp
+*.lock
+*.log
+*.pidb

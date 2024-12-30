@@ -1,0 +1,44 @@
+# Track large binary Unity assets
+*.psd filter=lfs diff=lfs merge=lfs
+*.png filter=lfs diff=lfs merge=lfs
+*.jpg filter=lfs diff=lfs merge=lfs
+*.tga filter=lfs diff=lfs merge=lfs
+*.gif filter=lfs diff=lfs merge=lfs
+*.tif filter=lfs diff=lfs merge=lfs
+*.bmp filter=lfs diff=lfs merge=lfs
+*.exr filter=lfs diff=lfs merge=lfs
+
+# Audio files
+*.mp3 filter=lfs diff=lfs merge=lfs
+*.wav filter=lfs diff=lfs merge=lfs
+*.ogg filter=lfs diff=lfs merge=lfs
+*.flac filter=lfs diff=lfs merge=lfs
+
+# Video files
+*.mp4 filter=lfs diff=lfs merge=lfs
+*.mov filter=lfs diff=lfs merge=lfs
+*.avi filter=lfs diff=lfs merge=lfs
+*.mkv filter=lfs diff=lfs merge=lfs
+
+# Unity scene and prefab files
+*.unity filter=lfs diff=lfs merge=lfs
+*.prefab filter=lfs diff=lfs merge=lfs
+*.prefab.meta filter=lfs diff=lfs merge=lfs
+*.unity.meta filter=lfs diff=lfs merge=lfs
+
+# 3D Models
+*.fbx filter=lfs diff=lfs merge=lfs
+*.obj filter=lfs diff=lfs merge=lfs
+*.dae filter=lfs diff=lfs merge=lfs
+*.blend filter=lfs diff=lfs merge=lfs
+*.3ds filter=lfs diff=lfs merge=lfs
+
+# Materials and shaders
+*.mat filter=lfs diff=lfs merge=lfs
+*.mat.meta filter=lfs diff=lfs merge=lfs
+*.shader filter=lfs diff=lfs merge=lfs
+
+# Other large files
+*.zip filter=lfs diff=lfs merge=lfs
+*.rar filter=lfs diff=lfs merge=lfs
+*.7z filter=lfs diff=lfs merge=lfs
